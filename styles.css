@@ -1,0 +1,80 @@
+ .decor
+ {
+  justify-content: center;
+  display: flex;
+  align-items:normal;
+  ;
+ }
+
+.title
+{
+  text-shadow: 2px 2px rgb(255, 255, 255);
+  background-color: black;
+  opacity: 0.3;
+}
+
+.dec{
+  text-shadow: 2px 2px rgb(255, 255, 255);
+  background-color: black;
+  opacity: 0.3;
+}
+
+.dec1{
+  text-shadow: 2px 2px rgb(255, 255, 255);
+  background-color: black;
+  opacity: 0.3;
+}
+
+.dec2{
+  text-shadow: 2px 2px rgb(255, 255, 255);
+  background-color: black;
+  opacity: 0.3;
+}
+
+.dec3{
+  text-shadow: 2px 2px rgb(255, 255, 255);
+  background-color: black;
+  opacity: 0.3;
+}
+
+.dec4{
+  text-shadow: 2px 2px rgb(255, 255, 255);
+  background-color: black;
+  opacity: 0.3;
+}
+
+.dec5{
+  text-shadow: 2px 2px rgb(255, 255, 255);
+  background-color: black;
+  opacity: 0.3;
+}
+.form
+{
+  justify-content: center;
+  display: flex;
+  align-items:normal;
+}
+
+body {
+    background-color: #f5f5f5;
+    color: rgb(255, 255, 255);
+    font-family:'Times New Roman', Times, serif;
+    font: bold;
+    color: black;
+}
+
+img {
+  border-radius: 15px;
+}
+
+.parallax {
+  background-image: "para.jpg";
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
